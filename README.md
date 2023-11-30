@@ -1,6 +1,6 @@
 # Election Management System
 
-This is a Project for Database Management Systems University Course. There is not project description.
+This is a Project for Database Management Systems University Course. There is no project description.
 
 ## Team Members
 
