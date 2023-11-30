@@ -31,4 +31,4 @@ This is a Project for Database Management Systems University Course. There is no
 • A candidate can only be nominated for one active event.\
 • A candidate could have been nominated for old events.\
 • An event can have multiple candidates.\
-• An event may not have nominated candidates yet.\
+• An event may not have nominated candidates yet.
