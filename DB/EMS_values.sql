@@ -45,3 +45,4 @@ INSERT INTO nominations VALUES (2, 66666, 'Sunflower', 3);
 INSERT INTO nominations VALUES (3, 99999, 'Tree', 4);
 INSERT INTO nominations VALUES (3, 12345, 'Mountain', 5);
 
+COMMIT;
